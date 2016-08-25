@@ -4,7 +4,7 @@ Final project for GWC
 Polar bears are becoming extinct. This mama bear needs to collect all her cubs before it stops snowing. 
 
 Watch a demo here: 
-https://www.youtube.com/watch?v=b7UA05CxgtU
+https://www.youtube.com/watch?v=Zk5UQpOoVgs
 
 Visit our site here promoting the game here:
 https://sabrinas78.github.io/final-master/PolarBearRun/index.html
